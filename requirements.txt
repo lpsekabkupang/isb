@@ -1,4 +1,4 @@
-streamlit
-pandas
-cloudscraper
+streamlit==1.37.1
+pandas==2.2.2
+cloudscraper==1.2.70
 io
